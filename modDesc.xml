@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="115">
+    <author>PropaineX</author>
+    <version>1.4.1.0</version>
+    <title>
+        <en>Brandt LandRoller 591A Standalone</en>
+    </title>
+    <description>
+        <en><![CDATA[Brandt LandRoller 591A with Land roller, Grass roller and Mulcher shop configurations.
+Schouten orange frame. Mulcher configuration adds five shiny black bladed drums with silver bolts.
+Working width: 27.7 m. Required power: 275 hp. Working speed: 14 km/h. Price: 115,000.
+Original vehicle assets: GIANTS Software. Mulcher drums and configuration: PropaineX.
+
+Changelog 1.2.1.0:
+- Fixed main color not applying (script error in the paint code).
+
+Changelog 1.2.0.0:
+- Added independent main frame and rim color options for all three tool types, using the native full palette.
+
+Changelog 1.1.4.0:
+- Restored native rolling work sound for all three tool configurations.
+
+Changelog 1.1.3.0:
+- Hide original smooth drum surfaces through dedicated skin-bone visibility; removed scale compensation.
+
+Changelog 1.1.2.0:
+- Enabled runtime loading of the replacement mulcher drum models.
+
+Changelog 1.1.1.0:
+- Replacement drums now inherit the original drum rotation nodes; removed separate replacement rotation controls.
+
+Changelog 1.1.0.0:
+- Added a passive rolling mulcher configuration with native mulching ground processing.
+- Integrated five fitted bladed drums, each with 16 rows of eight silver bolts.
+- Changed blue frame paint to native Schouten orange.
+- Preserved original transport wheels and roller configurations.]]></en>
+        <de><![CDATA[Brandt LandRoller 591A mit Ackerwalze, Gruenlandwalze und Mulcher als Shop-Konfiguration.
+Schouten-orangefarbener Rahmen. Mulcher mit fuenf schwarzen Messerwalzen und silbernen Schrauben.
+Arbeitsbreite: 27,7 m. Leistung: 275 PS. Arbeitsgeschwindigkeit: 14 km/h. Preis: 115.000.
+Originalfahrzeug: GIANTS Software. Mulcherwalzen und Umbau: PropaineX.
+
+Changelog 1.1.1.0:
+- Mulcherwalzen folgen den originalen Walzen-Drehknoten; separate Drehansteuerung entfernt.
+
+Changelog 1.1.0.0:
+- Passive Mulcher-Konfiguration hinzugefuegt.
+- Fuenf angepasste Messerwalzen mit je 16 Reihen aus acht Schrauben.
+- Rahmenfarbe Schouten Orange und originale Transportreifen.]]></de>
+    </description>
+    <iconFilename>icon_landRoller591A.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="landRoller591A.xml" />
+    </storeItems>
+    <specializations>
+        <specialization name="selectableMulcher" className="BrandtSelectableMulcher" filename="scripts/BrandtSelectableMulcher.lua" />
+    </specializations>
+    <vehicleTypes>
+        <type name="brandtSelectableRoller" parent="roller" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="selectableMulcher" />
+        </type>
+    </vehicleTypes>
+</modDesc>
