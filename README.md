@@ -33,6 +33,18 @@ All versions: Main colour and Rim colour options (default Brandt blue), no surch
 
 See [PATCH_NOTES.md](PATCH_NOTES.md) for changes. Original vehicle assets: GIANTS Software. Drums and standalone conversion: PropaineX.
 
+<!-- dtm-screenshots -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/screenshots.jpg" alt="Screenshots" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/screens/FS25_Brandt_Landroller_591_Pro/shop.jpg" alt="Land roller, grass roller and mulcher" width="100%">
+</p>
+
+<!-- /dtm-screenshots -->
+
 ---
 
 <p align="center">
