@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/patch-notes.jpg" alt="Patch notes" width="100%">
+</p>
+
 # Brandt LandRoller 591A Standalone - Patch notes
 
 ## 1.4.1.0 (2026-11-10) - New icon and shop image
