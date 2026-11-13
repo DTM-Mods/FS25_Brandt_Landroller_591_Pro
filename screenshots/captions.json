@@ -1,7 +1,22 @@
 {
+  "3.jpg": {
+    "title": "Land roller",
+    "text": "Black ring-roller drums: fat finned rings alternating with skinny toothed rings.",
+    "at": "bottom"
+  },
+  "4.jpg": {
+    "title": "Mulcher",
+    "text": "Five black bladed drums with silver bolts; it mulches while driving unfolded.",
+    "at": "bottom"
+  },
+  "5.jpg": {
+    "title": "Grass roller",
+    "text": "The third shop configuration, for grassland.",
+    "at": "bottom"
+  },
   "6.jpg": {
-    "title": "Folded for transport",
-    "text": "The wings fold in so the roller can go on the road.",
+    "title": "27.7 m working width",
+    "text": "Shown here at midday, Brandt blue; main and rim colour can be changed in the shop.",
     "at": "bottom"
   }
 }
