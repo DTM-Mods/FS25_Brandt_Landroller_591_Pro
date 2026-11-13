@@ -4,6 +4,10 @@
 
 # Brandt LandRoller 591A Standalone - Patch notes
 
+## 1.4.1.1 (2026-11-13) - Shop description up to date
+- The shop description and changelog match the current machine: ring-roller and spiral drums, Brandt blue with colour options.
+- First release on GitHub.
+
 ## 1.4.1.0 (2026-11-10) - New icon and shop image
 - New mod icon and shop picture showing all three versions: Land roller (blue, ring drums), Grass roller (green, spiral drums), Mulcher (orange).
 - Shop picture has a clear background.

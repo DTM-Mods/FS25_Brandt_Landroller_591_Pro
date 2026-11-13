@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modDesc descVersion="115">
     <author>PropaineX</author>
-    <version>1.4.1.0</version>
+    <version>1.4.1.1</version>
     <title>
         <en>Brandt LandRoller 591A Standalone</en>
     </title>
     <description>
         <en><![CDATA[Brandt LandRoller 591A with Land roller, Grass roller and Mulcher shop configurations.
-Schouten orange frame. Mulcher configuration adds five shiny black bladed drums with silver bolts.
+Land roller: black ring-roller drums (finned and toothed rings). Grass roller: spiral weld-bead drums. Mulcher: five black bladed drums with silver bolts, mulches while driving unfolded.
+Main colour and Rim colour options for all three (default Brandt blue), no extra cost.
 Working width: 27.7 m. Required power: 275 hp. Working speed: 14 km/h. Price: 115,000.
-Original vehicle assets: GIANTS Software. Mulcher drums and configuration: PropaineX.
+Original vehicle assets: GIANTS Software. Drums and standalone conversion: PropaineX.
+
+Changelog 1.4.1.0:
+- New mod icon and shop picture showing all three versions.
+
+Changelog 1.4.0.0:
+- Land roller: black ring-roller drums, fat finned rings alternating with skinny toothed rings.
+
+Changelog 1.3.0.0:
+- Grass roller: its own drums with a raised weld bead spiralling the full length.
 
 Changelog 1.2.1.0:
 - Fixed main color not applying (script error in the paint code).
@@ -35,9 +45,25 @@ Changelog 1.1.0.0:
 - Changed blue frame paint to native Schouten orange.
 - Preserved original transport wheels and roller configurations.]]></en>
         <de><![CDATA[Brandt LandRoller 591A mit Ackerwalze, Gruenlandwalze und Mulcher als Shop-Konfiguration.
-Schouten-orangefarbener Rahmen. Mulcher mit fuenf schwarzen Messerwalzen und silbernen Schrauben.
+Ackerwalze: schwarze Ringwalzen (Rippen- und Zahnringe). Gruenlandwalze: Walzen mit spiralfoermiger Schweissraupe. Mulcher: fuenf schwarze Messerwalzen mit silbernen Schrauben, mulcht ausgeklappt waehrend der Fahrt.
+Haupt- und Felgenfarbe fuer alle drei waehlbar (Standard Brandt-Blau), ohne Aufpreis.
 Arbeitsbreite: 27,7 m. Leistung: 275 PS. Arbeitsgeschwindigkeit: 14 km/h. Preis: 115.000.
-Originalfahrzeug: GIANTS Software. Mulcherwalzen und Umbau: PropaineX.
+Originalfahrzeug: GIANTS Software. Walzen und Umbau: PropaineX.
+
+Changelog 1.4.1.0:
+- Neues Mod-Symbol und Shopbild mit allen drei Versionen.
+
+Changelog 1.4.0.0:
+- Ackerwalze: schwarze Ringwalzen, dicke Rippenringe im Wechsel mit schmalen Zahnringen.
+
+Changelog 1.3.0.0:
+- Gruenlandwalze: eigene Walzen mit einer erhabenen Schweissraupe als Spirale ueber die ganze Laenge.
+
+Changelog 1.2.1.0:
+- Hauptfarbe wirkt wieder auf den Rahmen (Skriptfehler im Lackiercode behoben).
+
+Changelog 1.2.0.0:
+- Haupt- und Felgenfarbe fuer alle drei Werkzeugtypen, volle Farbpalette.
 
 Changelog 1.1.1.0:
 - Mulcherwalzen folgen den originalen Walzen-Drehknoten; separate Drehansteuerung entfernt.
