@@ -4,6 +4,10 @@
 
 # Brandt LandRoller 591A Standalone - Patch notes
 
+## 1.4.1.2 (2026-11-13) - Author name
+
+- The author now shows as **DTM Mods, PropaineX** in the mod list.
+
 ## 1.4.1.1 (2026-11-13) - Shop description up to date
 - The shop description and changelog match the current machine: ring-roller and spiral drums, Brandt blue with colour options.
 - First release on GitHub.
