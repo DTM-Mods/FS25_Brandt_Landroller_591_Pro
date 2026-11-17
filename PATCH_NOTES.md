@@ -4,6 +4,10 @@
 
 # Brandt LandRoller 591A Standalone - Patch notes
 
+## 1.4.1.4
+
+- Updated for the current game version: modDesc descVersion 116 (the game build of 2026-10-27; GIANTS TestRunner 0.9.24 accepts only 116).
+
 ## 1.4.1.3
 - Meets the GIANTS ModHub checks (TestRunner): unused files are no longer shipped (copies of game textures the mod loads from the game, and README.txt).
 
