@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modDesc descVersion="115">
     <author>DTM Mods, PropaineX</author>
-    <version>1.4.1.2</version>
+    <version>1.4.1.3</version>
     <title>
         <en>Brandt LandRoller 591A Standalone</en>
     </title>
@@ -11,6 +11,9 @@ Land roller: black ring-roller drums (finned and toothed rings). Grass roller: s
 Main colour and Rim colour options for all three (default Brandt blue), no extra cost.
 Working width: 27.7 m. Required power: 275 hp. Working speed: 14 km/h. Price: 115,000.
 Original vehicle assets: GIANTS Software. Drums and standalone conversion: PropaineX.
+
+Changelog 1.4.1.3:
+- Meets the GIANTS ModHub checks (TestRunner): unused files are no longer shipped.
 
 Changelog 1.4.1.0:
 - New mod icon and shop picture showing all three versions.
@@ -49,6 +52,9 @@ Ackerwalze: schwarze Ringwalzen (Rippen- und Zahnringe). Gruenlandwalze: Walzen 
 Haupt- und Felgenfarbe fuer alle drei waehlbar (Standard Brandt-Blau), ohne Aufpreis.
 Arbeitsbreite: 27,7 m. Leistung: 275 PS. Arbeitsgeschwindigkeit: 14 km/h. Preis: 115.000.
 Originalfahrzeug: GIANTS Software. Walzen und Umbau: PropaineX.
+
+Changelog 1.4.1.3:
+- Erfuellt die GIANTS-ModHub-Pruefungen (TestRunner): ungenutzte Dateien werden nicht mehr mitgeliefert.
 
 Changelog 1.4.1.0:
 - Neues Mod-Symbol und Shopbild mit allen drei Versionen.

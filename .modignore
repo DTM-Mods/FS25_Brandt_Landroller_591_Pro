@@ -1,0 +1,10 @@
+# files the build leaves out of the zip (see DTM-Mods/.github ci/README.md)
+# ModHub doesn't take .txt files
+README.txt
+# copies of game textures: the i3d/xml load them from $data/vehicles/brandt/landRoller591A/
+landRoller591ADecals_diffuse.dds
+landRoller591ADecals_normal.dds
+landRoller591AHoses_vmask.dds
+landRoller591A_normal.dds
+landRoller591A_vmask.dds
+rollerEffect01Array.dds

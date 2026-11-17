@@ -4,6 +4,9 @@
 
 # Brandt LandRoller 591A Standalone - Patch notes
 
+## 1.4.1.3
+- Meets the GIANTS ModHub checks (TestRunner): unused files are no longer shipped (copies of game textures the mod loads from the game, and README.txt).
+
 ## 1.4.1.2 (2026-11-13) - Author name
 
 - The author now shows as **DTM Mods, PropaineX** in the mod list.
