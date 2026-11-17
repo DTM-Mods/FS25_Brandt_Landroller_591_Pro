@@ -6,11 +6,16 @@
         <en>Brandt LandRoller 591A Standalone</en>
     </title>
     <description>
-        <en><![CDATA[Brandt LandRoller 591A with Land roller, Grass roller and Mulcher shop configurations.
+        <en><![CDATA[Category: Rollers
+Price: $115,000
+Required power: 275 hp
+Working width: 27.7 m
+Working speed: 14 kph
+
+Brandt LandRoller 591A with Land roller, Grass roller and Mulcher shop configurations.
 Land roller: black ring-roller drums (finned and toothed rings). Grass roller: spiral weld-bead drums. Mulcher: five black bladed drums with silver bolts, mulches while driving unfolded.
 Main colour and Rim colour options for all three (default Brandt blue), no extra cost.
-Working width: 27.7 m. Required power: 275 hp. Working speed: 14 km/h. Price: 115,000.
-Original vehicle assets: GIANTS Software. Drums and standalone conversion: PropaineX.
+Original vehicle assets: GIANTS Software.
 
 Changelog 1.4.1.4:
 - Updated for the current game version (modDesc version 116).
@@ -50,11 +55,16 @@ Changelog 1.1.0.0:
 - Integrated five fitted bladed drums, each with 16 rows of eight silver bolts.
 - Changed blue frame paint to native Schouten orange.
 - Preserved original transport wheels and roller configurations.]]></en>
-        <de><![CDATA[Brandt LandRoller 591A mit Ackerwalze, Gruenlandwalze und Mulcher als Shop-Konfiguration.
+        <de><![CDATA[Shopkategorie: Walzen
+Preis: 115.000 €
+Benötigte Leistung: 275 PS
+Arbeitsbreite: 27,7 m
+Arbeitsgeschwindigkeit: 14 km/h
+
+Brandt LandRoller 591A mit Ackerwalze, Gruenlandwalze und Mulcher als Shop-Konfiguration.
 Ackerwalze: schwarze Ringwalzen (Rippen- und Zahnringe). Gruenlandwalze: Walzen mit spiralfoermiger Schweissraupe. Mulcher: fuenf schwarze Messerwalzen mit silbernen Schrauben, mulcht ausgeklappt waehrend der Fahrt.
 Haupt- und Felgenfarbe fuer alle drei waehlbar (Standard Brandt-Blau), ohne Aufpreis.
-Arbeitsbreite: 27,7 m. Leistung: 275 PS. Arbeitsgeschwindigkeit: 14 km/h. Preis: 115.000.
-Originalfahrzeug: GIANTS Software. Walzen und Umbau: PropaineX.
+Originalfahrzeug: GIANTS Software.
 
 Changelog 1.4.1.4:
 - An die aktuelle Spielversion angepasst (modDesc-Version 116).
