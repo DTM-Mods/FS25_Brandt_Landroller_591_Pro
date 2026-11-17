@@ -4,6 +4,12 @@
 
 # Brandt LandRoller 591A Standalone - Patch notes
 
+## 1.4.1.5
+
+- Description in GIANTS' ModHub layout (category, price, upkeep or hotkeys at the top).
+- Shop images without mipmaps, as ModHub wants.
+- No modder names in the description and the game texts any more.
+
 ## 1.4.1.4
 
 - Updated for the current game version: modDesc descVersion 116 (the game build of 2026-10-27; GIANTS TestRunner 0.9.24 accepts only 116).

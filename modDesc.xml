@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modDesc descVersion="116">
     <author>DTM Mods, PropaineX</author>
-    <version>1.4.1.4</version>
+    <version>1.4.1.5</version>
     <title>
         <en>Brandt LandRoller 591A Standalone</en>
     </title>
@@ -16,6 +16,11 @@ Brandt LandRoller 591A with Land roller, Grass roller and Mulcher shop configura
 Land roller: black ring-roller drums (finned and toothed rings). Grass roller: spiral weld-bead drums. Mulcher: five black bladed drums with silver bolts, mulches while driving unfolded.
 Main colour and Rim colour options for all three (default Brandt blue), no extra cost.
 Original vehicle assets: GIANTS Software.
+
+Changelog 1.4.1.5:
+- Description in GIANTS' ModHub layout (category, price, upkeep or hotkeys at the top).
+- Shop images without mipmaps, as ModHub wants.
+- No modder names in the description and the game texts any more.
 
 Changelog 1.4.1.4:
 - Updated for the current game version (modDesc version 116).
@@ -65,6 +70,11 @@ Brandt LandRoller 591A mit Ackerwalze, Gruenlandwalze und Mulcher als Shop-Konfi
 Ackerwalze: schwarze Ringwalzen (Rippen- und Zahnringe). Gruenlandwalze: Walzen mit spiralfoermiger Schweissraupe. Mulcher: fuenf schwarze Messerwalzen mit silbernen Schrauben, mulcht ausgeklappt waehrend der Fahrt.
 Haupt- und Felgenfarbe fuer alle drei waehlbar (Standard Brandt-Blau), ohne Aufpreis.
 Originalfahrzeug: GIANTS Software.
+
+Changelog 1.4.1.5:
+- Beschreibung im ModHub-Aufbau von GIANTS (Kategorie, Preis, Unterhalt bzw. Tasten oben).
+- Shopbilder ohne Mipmaps, wie ModHub es verlangt.
+- Keine Modder-Namen mehr in der Beschreibung und den Spieltexten.
 
 Changelog 1.4.1.4:
 - An die aktuelle Spielversion angepasst (modDesc-Version 116).
