@@ -10,7 +10,7 @@ Only the original blue-painted frame material follows Main color; drums, bolts, 
 Original transport wheels, folding, hitch and physics are retained.
 Working width 27.7 m; required power 275 hp; speed 14 km/h; price 115,000. Mode options have no surcharge.
 
-Build destination requested: Testing_local only. ZIP: FS25_Brandt_LandRoller591A.zip.
+Build destination requested: Local_testing only. ZIP: FS25_Brandt_LandRoller591A.zip.
 Do not package source, backups, research, previews, QA tools or logs.
 Runtime manifest: source/build_1_1_1_0/runtime_files.txt.
 
